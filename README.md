@@ -1,5 +1,6 @@
 # goods
-用vue做的电商项目
+用vue做的电商项目  
+
  //启动项目  
  
  npm install  
